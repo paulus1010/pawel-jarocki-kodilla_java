@@ -18,3 +18,8 @@ dependencies {
 test {
     useJUnitPlatform()
 }
+
+
+springBoot {
+    mainClass = "com.kodilla.stream.StreamMain"
+} 
